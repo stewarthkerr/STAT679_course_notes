@@ -1,5 +1,7 @@
 #THIS IS THE BEGINNING OF BRANCH A
 
+###THESE ARE CHANGES MADE TO BRANCH A
+
 # Git Notes
 These are some notes that I have taken in class.
 These are additional notes that I have taken in class.
